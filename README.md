@@ -382,3 +382,8 @@ The current version is suitable for coursework, demonstration, and further
 development. Future work should focus on more accurate sensors, real pH
 measurement, alerting, offline operation, MQTT support, PCB design, enclosure
 improvements, and smarter threshold recommendations based on historical data.
+
+## License
+
+This project is released under the MIT License. See [`LICENSE`](LICENSE) for
+details.
